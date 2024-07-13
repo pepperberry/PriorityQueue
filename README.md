@@ -2,9 +2,9 @@ a priority queue system (triage) for a hospital emergency room.
 
 
 Level	Priority Codes Should be seen by the provider within:
-1	immediate :	0 minutes
-2	emergency	: 15 minutes
-3	urgent : 30 minutes
+1	immediate :	0 minutes,
+2	emergency	: 15 minutes,
+3	urgent : 30 minutes,
 4	minimal : 120 minutes
 
 you add and determine patients' priority
